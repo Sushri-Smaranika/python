@@ -40,3 +40,17 @@ function list_users_with_read_access {
 
 echo "Listing users with read access to ${REPO_OWNER}/${REPO_NAME}..."
 list_users_with_read_access
+
+
+#git clone https://github.com/10Smaranika/python/login-collabs.sh
+#git clone https://github.com/10Smaranika/python
+#git clone https://github.com/Sushri-Smaranika/python
+#ls
+#cd python/
+#cd
+#cd python/
+#ls
+#chmod 777 login-collabs.sh
+#./login-collabs.sh Sushri-Smaranika python
+#clear
+
